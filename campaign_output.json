@@ -1,0 +1,903 @@
+[
+  {
+    "step_number": 1,
+    "message": "Greetings from Jubilant MotorWorks! As India's leading automotive retail and dealership company, we understand the dynamic needs of sales professionals. Explore our extensive network across 15+ cities with over 70 facilities.",
+    "call_to_action": {
+      "text": "Discover Your Next Professional Vehicle",
+      "type": "selection",
+      "options": [
+        {
+          "label": "View Our Brand Portfolio",
+          "action": "view_brand_portfolio"
+        },
+        {
+          "label": "Learn About Our Scale",
+          "action": "learn_about_scale"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 2,
+    "message": "For over two decades, Jubilant MotorWorks has delivered over 1 million vehicles. Our diverse brand portfolio includes luxury, mainstream, and two-wheeler options, perfectly suited for the discerning sales professional.",
+    "call_to_action": {
+      "text": "Which segment aligns with your professional image?",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Luxury & Premium Vehicles",
+          "action": "explore_luxury_segment"
+        },
+        {
+          "label": "Mainstream Passenger Vehicles",
+          "action": "explore_mainstream_segment"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 3,
+    "message": "As a sales professional, your time and image are paramount. Jubilant MotorWorks proudly represents Audi and MG Select, offering vehicles that make a statement. Our certified pre-owned luxury Audis are also an excellent choice.",
+    "call_to_action": {
+      "text": "Explore Luxury Options",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Browse New Audi Models",
+          "action": "browse_new_audi"
+        },
+        {
+          "label": "View Certified Pre-Owned Audi",
+          "action": "view_cpo_audi"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 4,
+    "message": "Reliability and efficiency are key for sales professionals on the move. Jubilant MotorWorks features Mahindra's robust SUV lineup, including the Thar Roxx, and their innovative EV offerings like the XEV 9S and BE6.",
+    "call_to_action": {
+      "text": "Find Your Reliable Partner",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Discover Mahindra SUVs",
+          "action": "discover_mahindra_suvs"
+        },
+        {
+          "label": "Explore Mahindra EVs",
+          "action": "explore_mahindra_evs"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 5,
+    "message": "Beyond sales, our 70+ facilities offer comprehensive after-sales service with certified specialists. For sales professionals, minimal downtime is crucial, and our team ensures your vehicle is always performance-ready.",
+    "call_to_action": {
+      "text": "Ensure Peak Performance",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Book a Service Appointment",
+          "action": "book_service_appointment"
+        },
+        {
+          "label": "Learn About Our Service Centers",
+          "action": "learn_service_centers"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 6,
+    "message": "Jubilant MotorWorks understands that a premium vehicle can enhance your professional presence. Explore our exquisite range of new Audi models, symbolizing sophistication and performance for the modern sales leader.",
+    "call_to_action": {
+      "text": "Elevate Your Professional Image",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Schedule an Audi Test Drive",
+          "action": "schedule_audi_test_drive"
+        },
+        {
+          "label": "Request an Audi Brochure",
+          "action": "request_audi_brochure"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 7,
+    "message": "Consider the smart luxury of MG Select through Jubilant MotorWorks. These premium vehicles offer advanced features and comfort, ideal for sales professionals who spend significant time on the road.",
+    "call_to_action": {
+      "text": "Experience Smart Luxury",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Inquire About MG Select Models",
+          "action": "inquire_mg_select"
+        },
+        {
+          "label": "Explore Premium Features",
+          "action": "explore_premium_features"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 8,
+    "message": "Jubilant MotorWorks offers robust Mahindra vehicles, perfect for sales professionals requiring durability and versatility. From city commutes to challenging terrains, models like the Thar Roxx deliver.",
+    "call_to_action": {
+      "text": "Unleash Versatility",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Discover Thar Roxx",
+          "action": "discover_thar_roxx"
+        },
+        {
+          "label": "View All Mahindra SUVs",
+          "action": "view_all_mahindra_suvs"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 9,
+    "message": "Embrace the future of mobility with Jubilant MotorWorks' EV portfolio, including Mahindra XEV 9S and BE6, and MG Motor's electric offerings. Reduce your operational costs as a sales professional.",
+    "call_to_action": {
+      "text": "Drive Sustainable Savings",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Explore Our EV Range",
+          "action": "explore_ev_range"
+        },
+        {
+          "label": "Calculate Your EV Savings",
+          "action": "calculate_ev_savings"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 10,
+    "message": "For sales professionals who appreciate classic style and efficiency, Jubilant MotorWorks is an authorized dealer for Jawa Yezdi Motorcycles. Experience the blend of heritage and modern performance.",
+    "call_to_action": {
+      "text": "Ride with Style",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Browse Jawa Yezdi Models",
+          "action": "browse_jawa_yezdi"
+        },
+        {
+          "label": "Book a Motorcycle Test Ride",
+          "action": "book_motorcycle_test_ride"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 11,
+    "message": "Seeking the prestige of a luxury vehicle without the new car price tag? Jubilant MotorWorks' Certified Pre-Owned division specializes in high-quality luxury cars, including certified pre-owned Audis.",
+    "call_to_action": {
+      "text": "Access Premium Value",
+      "type": "selection",
+      "options": [
+        {
+          "label": "View CPO Luxury Inventory",
+          "action": "view_cpo_luxury"
+        },
+        {
+          "label": "Learn About CPO Benefits",
+          "action": "learn_cpo_benefits"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 12,
+    "message": "At Jubilant MotorWorks, new vehicle sales are a seamless experience. Sales professionals can easily schedule test drives and bookings online. Our team ensures a transparent and efficient process.",
+    "call_to_action": {
+      "text": "Start Your New Vehicle Journey",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Schedule a Test Drive",
+          "action": "schedule_test_drive"
+        },
+        {
+          "label": "Request a Callback for Booking",
+          "action": "request_booking_callback"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 13,
+    "message": "Trading in your current vehicle for an upgrade is effortless with Jubilant MotorWorks. Our appraisal team provides fair and competitive valuations, helping sales professionals manage their fleet transitions smoothly.",
+    "call_to_action": {
+      "text": "Value Your Trade-In",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Get an Instant Valuation",
+          "action": "get_instant_valuation"
+        },
+        {
+          "label": "Book an Appraisal Appointment",
+          "action": "book_appraisal_appointment"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 14,
+    "message": "Jubilant MotorWorks provides in-house financing solutions with quick approval windows. For sales professionals, this means less waiting and more driving. Explore tailored options to suit your budget.",
+    "call_to_action": {
+      "text": "Secure Your Financing",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Apply for Pre-Approval",
+          "action": "apply_pre_approval"
+        },
+        {
+          "label": "Use Our EMI Smart Calculator",
+          "action": "use_emi_calculator"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 15,
+    "message": "Protect your investment with comprehensive insurance options and specialized maintenance packages from Jubilant MotorWorks. As a sales professional, peace of mind on the road is invaluable.",
+    "call_to_action": {
+      "text": "Protect Your Investment",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Get an Insurance Quote",
+          "action": "get_insurance_quote"
+        },
+        {
+          "label": "Explore Maintenance Packages",
+          "action": "explore_maintenance_packages"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 16,
+    "message": "Jubilant MotorWorks is committed to high-satisfaction and transparency. Our digital tools, like the EMI Smart Calculator, empower sales professionals to make informed decisions confidently.",
+    "call_to_action": {
+      "text": "Make Informed Choices",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Access EMI Smart Calculator",
+          "action": "access_emi_calculator"
+        },
+        {
+          "label": "Understand Our Transparency Pledge",
+          "action": "understand_transparency_pledge"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 17,
+    "message": "Considering the switch to electric? Jubilant MotorWorks' EV savings calculator helps sales professionals compare the cost benefits of EV ownership over traditional fuel vehicles. See your potential savings!",
+    "call_to_action": {
+      "text": "Calculate Your EV Savings",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Try the EV Savings Calculator",
+          "action": "try_ev_savings_calculator"
+        },
+        {
+          "label": "Explore Our EV Inventory",
+          "action": "explore_ev_inventory"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 18,
+    "message": "Jubilant MotorWorks caters to every segment, from daily commuters to off-road enthusiasts and luxury car buyers. As a sales professional, you'll find a vehicle perfectly suited to your lifestyle and professional demands.",
+    "call_to_action": {
+      "text": "Find Your Perfect Match",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Browse All Categories",
+          "action": "browse_all_categories"
+        },
+        {
+          "label": "Get a Personalized Recommendation",
+          "action": "get_personalized_recommendation"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 19,
+    "message": "Ready for a personalized consultation? Jubilant MotorWorks' Sales Advisory Team is on standby to help sales professionals navigate our extensive offerings and find the ideal automotive solution.",
+    "call_to_action": {
+      "text": "Schedule a Consultation",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Book a Virtual Meeting",
+          "action": "book_virtual_meeting"
+        },
+        {
+          "label": "Request a Branch Visit Appointment",
+          "action": "request_branch_visit"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 20,
+    "message": "Jubilant MotorWorks is proud of its workforce of over 1,500 employees dedicated to serving you. Experience unparalleled customer service designed for busy sales professionals.",
+    "call_to_action": {
+      "text": "Experience Our Service",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Contact Customer Support",
+          "action": "contact_customer_support"
+        },
+        {
+          "label": "Read Customer Testimonials",
+          "action": "read_testimonials"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 21,
+    "message": "Discover the Audi A4, A6, or Q3 at Jubilant MotorWorks. These models blend executive comfort with dynamic performance, making them perfect for sales professionals who value both. ",
+    "call_to_action": {
+      "text": "Explore Specific Audi Models",
+      "type": "selection",
+      "options": [
+        {
+          "label": "View Audi A4 Details",
+          "action": "view_audi_a4"
+        },
+        {
+          "label": "View Audi Q3 Details",
+          "action": "view_audi_q3"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 22,
+    "message": "MG Select offers a compelling blend of luxury, technology, and value. For sales professionals, this translates to a sophisticated ride with advanced connectivity, ideal for productive travel. ",
+    "call_to_action": {
+      "text": "Learn More About MG Select Tech",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Explore Infotainment Features",
+          "action": "explore_mg_infotainment"
+        },
+        {
+          "label": "Discover Safety Innovations",
+          "action": "discover_mg_safety"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 23,
+    "message": "Mahindra's legendary Thar Roxx, available at Jubilant MotorWorks, is not just an off-roader. Its rugged reliability and commanding presence are assets for sales professionals needing to project confidence.",
+    "call_to_action": {
+      "text": "Embrace Rugged Confidence",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Configure Your Thar Roxx",
+          "action": "configure_thar_roxx"
+        },
+        {
+          "label": "Watch Thar Roxx Review",
+          "action": "watch_thar_roxx_review"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 24,
+    "message": "Experience the silent power and significant savings of Mahindra's XEV 9S and BE6 electric vehicles at Jubilant MotorWorks. A smart choice for sales professionals looking to cut fuel costs and environmental impact.",
+    "call_to_action": {
+      "text": "Switch to Electric Driving",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Request EV Home Charging Info",
+          "action": "request_ev_charging_info"
+        },
+        {
+          "label": "View EV Range & Specifications",
+          "action": "view_ev_specs"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 25,
+    "message": "Jubilant MotorWorks brings you the classic charm of Jawa Yezdi Motorcycles. For sales professionals, a two-wheeler can offer agile commuting in urban environments and a distinctive personal style.",
+    "call_to_action": {
+      "text": "Explore Two-Wheeler Advantages",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Discover Urban Mobility Solutions",
+          "action": "discover_urban_mobility"
+        },
+        {
+          "label": "Personalize Your Jawa Yezdi",
+          "action": "personalize_jawa_yezdi"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 26,
+    "message": "Our Certified Pre-Owned program at Jubilant MotorWorks provides sales professionals with peace of mind. Every vehicle undergoes rigorous inspection, ensuring quality and reliability for your journeys.",
+    "call_to_action": {
+      "text": "Assurance for Your Journeys",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Learn About Our 100+ Point Check",
+          "action": "learn_100_point_check"
+        },
+        {
+          "label": "Browse CPO Warranty Details",
+          "action": "browse_cpo_warranty"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 27,
+    "message": "Jubilant MotorWorks makes booking a new vehicle seamless. Sales professionals can choose their model, customize features, and book directly online or with the assistance of our Sales Advisory Team.",
+    "call_to_action": {
+      "text": "Start Your Booking Now",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Begin Online Vehicle Booking",
+          "action": "begin_online_booking"
+        },
+        {
+          "label": "Connect with Booking Support",
+          "action": "connect_booking_support"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 28,
+    "message": "Maximize your trade-in value with Jubilant MotorWorks. Our expert valuation team provides transparent assessments, ensuring sales professionals receive the best possible deal towards their next vehicle.",
+    "call_to_action": {
+      "text": "Get an Expert Valuation",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Upload Vehicle Details for Quote",
+          "action": "upload_vehicle_details"
+        },
+        {
+          "label": "Speak to a Valuation Specialist",
+          "action": "speak_valuation_specialist"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 29,
+    "message": "Jubilant MotorWorks offers flexible financing solutions to match the diverse needs of sales professionals. From low-interest rates to customized payment plans, we make vehicle ownership accessible.",
+    "call_to_action": {
+      "text": "Explore Flexible Financing",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Compare Financing Plans",
+          "action": "compare_financing_plans"
+        },
+        {
+          "label": "Request a Custom Quote",
+          "action": "request_custom_quote"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 30,
+    "message": "Maintain your vehicle's pristine condition and resale value with Jubilant MotorWorks' specialized maintenance packages. Sales professionals benefit from priority service and genuine parts.",
+    "call_to_action": {
+      "text": "Enroll in a Maintenance Plan",
+      "type": "selection",
+      "options": [
+        {
+          "label": "View Service Package Options",
+          "action": "view_service_packages"
+        },
+        {
+          "label": "Schedule Your First Service",
+          "action": "schedule_first_service"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 31,
+    "message": "Jubilant MotorWorks provides advanced diagnostics and repairs performed by our certified technicians. For sales professionals, this means quick and accurate problem resolution, minimizing vehicle downtime.",
+    "call_to_action": {
+      "text": "Access Expert Diagnostics",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Learn About Our Diagnostics Tools",
+          "action": "learn_diagnostics_tools"
+        },
+        {
+          "label": "Request a Diagnostic Check",
+          "action": "request_diagnostic_check"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 32,
+    "message": "With over 70 facilities across India, Jubilant MotorWorks ensures that sales professionals have convenient access to top-tier service, no matter where their business takes them.",
+    "call_to_action": {
+      "text": "Find a Service Center Near You",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Locate Nearest Service Facility",
+          "action": "locate_service_facility"
+        },
+        {
+          "label": "View Our Service Network Map",
+          "action": "view_service_map"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 33,
+    "message": "Jubilant MotorWorks values your trust. Our transparent service processes ensure that sales professionals are fully informed about all repairs and costs upfront.",
+    "call_to_action": {
+      "text": "Experience Transparent Service",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Understand Our Service Process",
+          "action": "understand_service_process"
+        },
+        {
+          "label": "Get a Service Cost Estimate",
+          "action": "get_service_cost_estimate"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 34,
+    "message": "Keep your luxury vehicle performing flawlessly. Jubilant MotorWorks offers specialized service for Audi and MG Select models, ensuring sales professionals maintain their premium assets.",
+    "call_to_action": {
+      "text": "Specialized Luxury Vehicle Service",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Book Audi Service",
+          "action": "book_audi_service"
+        },
+        {
+          "label": "Book MG Select Service",
+          "action": "book_mg_select_service"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 35,
+    "message": "For robust Mahindra vehicles and efficient MG Motor models, Jubilant MotorWorks has the expertise to keep them running optimally. Sales professionals rely on our consistent quality.",
+    "call_to_action": {
+      "text": "Maintain Your Mainstream Vehicle",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Book Mahindra Service",
+          "action": "book_mahindra_service"
+        },
+        {
+          "label": "Book MG Motor Service",
+          "action": "book_mg_motor_service"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 36,
+    "message": "The Jubilant MotorWorks digital platform is designed for your convenience. Sales professionals can manage their vehicle details, service history, and appointments all in one place.",
+    "call_to_action": {
+      "text": "Manage Your Vehicle Online",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Create Your Customer Account",
+          "action": "create_customer_account"
+        },
+        {
+          "label": "Explore Customer Portal Features",
+          "action": "explore_customer_portal"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 37,
+    "message": "Jubilant MotorWorks offers quick loan approval processes, understanding the fast-paced life of sales professionals. Get on the road sooner with our efficient financing support.",
+    "call_to_action": {
+      "text": "Fast-Track Your Approval",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Submit an Express Loan Application",
+          "action": "submit_express_loan_application"
+        },
+        {
+          "label": "Speak with a Finance Advisor",
+          "action": "speak_finance_advisor"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 38,
+    "message": "Drive confidently knowing you're fully covered. Jubilant MotorWorks provides comprehensive insurance options, tailored to sales professionals, offering maximum protection for minimum hassle.",
+    "call_to_action": {
+      "text": "Get Comprehensive Coverage",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Request a Personalized Insurance Quote",
+          "action": "request_personalized_insurance_quote"
+        },
+        {
+          "label": "Compare Insurance Plans",
+          "action": "compare_insurance_plans"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 39,
+    "message": "Specialized maintenance packages from Jubilant MotorWorks ensure your vehicle receives the best care. Sales professionals benefit from fixed costs and comprehensive coverage for essential services.",
+    "call_to_action": {
+      "text": "Secure Your Maintenance Plan",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Review All-Inclusive Service Plans",
+          "action": "review_all_inclusive_plans"
+        },
+        {
+          "label": "Customize Your Maintenance Package",
+          "action": "customize_maintenance_package"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 40,
+    "message": "Jubilant MotorWorks' commitment to digital excellence extends to our virtual test drive and booking facilities. Sales professionals can explore vehicles from the comfort of their home or office.",
+    "call_to_action": {
+      "text": "Experience Digital Convenience",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Book a Virtual Test Drive",
+          "action": "book_virtual_test_drive"
+        },
+        {
+          "label": "Explore 360-Degree Vehicle Views",
+          "action": "explore_360_views"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 41,
+    "message": "Need to manage your budget? Jubilant MotorWorks' EMI Smart Calculator provides sales professionals with instant insights into monthly payments, empowering better financial planning.",
+    "call_to_action": {
+      "text": "Calculate Your EMIs Instantly",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Access EMI Calculator Tool",
+          "action": "access_emi_calculator_tool"
+        },
+        {
+          "label": "Get a Finance Quote",
+          "action": "get_finance_quote"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 42,
+    "message": "Considering the long-term benefits of an EV? Jubilant MotorWorks' EV savings calculator helps sales professionals visualize their savings on fuel and maintenance, making the switch even clearer.",
+    "call_to_action": {
+      "text": "Project Your EV Savings",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Use the EV Savings Projector",
+          "action": "use_ev_savings_projector"
+        },
+        {
+          "label": "Compare EV Models by Cost",
+          "action": "compare_ev_models_cost"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 43,
+    "message": "Jubilant MotorWorks' digital platform is your go-to resource for detailed vehicle specifications, pricing, and availability. Sales professionals can access all the information they need, anytime.",
+    "call_to_action": {
+      "text": "Access Vehicle Information",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Browse Vehicle Spec Sheets",
+          "action": "browse_vehicle_spec_sheets"
+        },
+        {
+          "label": "Check Real-Time Inventory",
+          "action": "check_real_time_inventory"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 44,
+    "message": "We pride ourselves on transparency. At Jubilant MotorWorks, sales professionals receive clear, honest communication throughout their buying and ownership journey. No hidden fees, no surprises.",
+    "call_to_action": {
+      "text": "Experience Our Transparency",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Read Our Customer Charter",
+          "action": "read_customer_charter"
+        },
+        {
+          "label": "Request a Detailed Quote",
+          "action": "request_detailed_quote"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 45,
+    "message": "Jubilant MotorWorks is more than just a dealership; we are a partner in your professional journey. Our goal is to ensure your complete satisfaction with every interaction.",
+    "call_to_action": {
+      "text": "Share Your Feedback",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Provide Service Feedback",
+          "action": "provide_service_feedback"
+        },
+        {
+          "label": "Contact Our Quality Assurance Team",
+          "action": "contact_qa_team"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 46,
+    "message": "As a leading automotive retail group in India, Jubilant MotorWorks offers unparalleled choices for sales professionals. From luxury to electric, your ideal vehicle awaits.",
+    "call_to_action": {
+      "text": "Ready to Find Your Vehicle?",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Explore Our Full Range",
+          "action": "explore_full_range"
+        },
+        {
+          "label": "Speak with an Advisor Now",
+          "action": "speak_advisor_now"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 47,
+    "message": "Jubilant MotorWorks is dedicated to providing tailored solutions for sales professionals. Let us help you select a vehicle that not only meets your needs but exceeds your expectations.",
+    "call_to_action": {
+      "text": "Get a Personalized Recommendation",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Fill Out Our Preference Form",
+          "action": "fill_preference_form"
+        },
+        {
+          "label": "Request a Call from Our Sales Advisory Team",
+          "action": "request_call_sales_advisory_team"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 48,
+    "message": "With Jubilant MotorWorks, comprehensive after-sales support ensures your vehicle remains a reliable asset for your professional life. Our commitment extends far beyond the sale.",
+    "call_to_action": {
+      "text": "Discover Post-Purchase Benefits",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Learn About Our Warranty Programs",
+          "action": "learn_warranty_programs"
+        },
+        {
+          "label": "Explore Roadside Assistance",
+          "action": "explore_roadside_assistance"
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 49,
+    "message": "Jubilant MotorWorks invites you to experience automotive retail redefined. For sales professionals, we offer efficiency, transparency, and a vast selection to power your success.",
+    "call_to_action": {
+      "text": "Choose Your Next Step",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Request a Call Back to Discuss Options",
+          "action": "request_callback_discuss_options"
+        },
+        {
+          "label": "Book a Personal Showroom Visit",
+          "action": "book_showroom_visit",
+          "post_selection_message": "Our team will attend to you ASAP."
+        }
+      ]
+    }
+  },
+  {
+    "step_number": 50,
+    "message": "Thank you for considering Jubilant MotorWorks for your automotive needs. Our team is ready to provide you with the professional service and exceptional vehicles you deserve. Let's drive your success forward.",
+    "call_to_action": {
+      "text": "Finalize Your Inquiry",
+      "type": "selection",
+      "options": [
+        {
+          "label": "Submit a General Inquiry",
+          "action": "submit_general_inquiry"
+        },
+        {
+          "label": "Connect with Our Sales Advisory Team",
+          "action": "connect_sales_advisory_team"
+        }
+      ]
+    }
+  }
+]
